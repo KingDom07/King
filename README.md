@@ -1,0 +1,2 @@
+# King
+A mental power
